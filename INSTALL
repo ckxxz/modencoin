@@ -1,0 +1,9 @@
+Building BroadCoin
+
+See doc/readme-qt.rst for instructions on building BroadCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BroadCoin.
+
+See doc/build-*.txt for instructions on building BroadCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BroadCoin.
